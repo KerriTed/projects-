@@ -1,1 +1,3 @@
 этот файл был создан на GitHub
+git add newfile.txt
+git commit -m "это коммит через GitHub"
